@@ -28,4 +28,4 @@ Tüm notasyonlarda işlem önceliği; parantez, üs alma, çarpma / bölme, topl
 -> DLL yapısını projede yuklemek icin; 
  - [DllYuklemeMain.cs](https://github.com/zekeriyafince/ReservePolishPostfix/blob/master/DllYuklemeMain.cs)  main kısmında ornek kullanım yapildi.
 
-<font color="red">Status: **Not yet implemented**</font>
+
