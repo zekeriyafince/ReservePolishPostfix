@@ -1,11 +1,13 @@
 # ReservePolishPostfix
 Infix to Postfix Conversion and Calculation
-<font color="green"> - Genel Olarak; </font>
+
+
+** - Genel Olarak; **
 
 
 Bilgisayarda 3 x 4 + 5 vb. aritmetik ifadeleri çözümlemek zor olabilir. Yazacağımız kodda, işlem öncelikleri ve parantezler ifade sonucunu bulmayı zorlaştırabilir. Bu yüzden, aritmetik ifadeleri göstermek için farklı notasyonlar geliştirilmiştir.
 
--Infix Notasyonu
+- Infix Notasyonu
 
 Halihazırda kullandığımız notasyondur. 3 + 4 örneğinde olduğu gibi, operatörler ifade içerisindedir.
 
@@ -13,7 +15,7 @@ Halihazırda kullandığımız notasyondur. 3 + 4 örneğinde olduğu gibi, oper
 
 İşlem sırasını değiştirmek için parantezler kullanılır. Örneğin, (3 + 4) x 5
 
--Postfix Notasyonu (Reverse Polish Notation)
+- Postfix Notasyonu (Reverse Polish Notation)
 
 34+ örneğinde olduğu gibi operatörler, işleme sokulacak ifadelerin sonrasına yazılır. Verilen örnekte, iki sayı toplanmak istenmektedir.
 
