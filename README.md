@@ -25,7 +25,7 @@ Halihazırda kullandığımız notasyondur. 3 + 4 örneğinde olduğu gibi, oper
 
 Tüm notasyonlarda işlem önceliği; parantez, üs alma, çarpma / bölme, toplama / çıkarma şeklindedir. Aynı işlem önceliğine sahip birden fazla ifadenin gelmesi durumunda, üs alma hariç, soldan sağa doğru işlemler yapılır.
 
--> DLL yapısını projede yuklemek icin; 
+> DLL yapısını projede yuklemek icin; 
  - [DllYuklemeMain.cs](https://github.com/zekeriyafince/ReservePolishPostfix/blob/master/DllYuklemeMain.cs)  main kısmında ornek kullanım yapildi.
 
 
