@@ -7,7 +7,7 @@ Infix to Postfix Conversion and Calculation
 
 Bilgisayarda 3 x 4 + 5 vb. aritmetik ifadeleri çözümlemek zor olabilir. Yazacağımız kodda, işlem öncelikleri ve parantezler ifade sonucunu bulmayı zorlaştırabilir. Bu yüzden, aritmetik ifadeleri göstermek için farklı notasyonlar geliştirilmiştir.
 
-*- Infix Notasyonu*
+*__- Infix Notasyonu__*
 
 Halihazırda kullandığımız notasyondur. 3 + 4 örneğinde olduğu gibi, operatörler ifade içerisindedir.
 
@@ -15,7 +15,7 @@ Halihazırda kullandığımız notasyondur. 3 + 4 örneğinde olduğu gibi, oper
 
 İşlem sırasını değiştirmek için parantezler kullanılır. Örneğin, (3 + 4) x 5
 
-*- Postfix Notasyonu (Reverse Polish Notation)*
+*__- Postfix Notasyonu (Reverse Polish Notation)__*
 
 34+ örneğinde olduğu gibi operatörler, işleme sokulacak ifadelerin sonrasına yazılır. Verilen örnekte, iki sayı toplanmak istenmektedir.
 
