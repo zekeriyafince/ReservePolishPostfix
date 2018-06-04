@@ -2,7 +2,7 @@
 Infix to Postfix Conversion and Calculation
 
 
-** - Genel Olarak; **
+**- Genel Olarak;**
 
 
 Bilgisayarda 3 x 4 + 5 vb. aritmetik ifadeleri çözümlemek zor olabilir. Yazacağımız kodda, işlem öncelikleri ve parantezler ifade sonucunu bulmayı zorlaştırabilir. Bu yüzden, aritmetik ifadeleri göstermek için farklı notasyonlar geliştirilmiştir.
